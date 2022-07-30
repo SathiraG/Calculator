@@ -1,0 +1,297 @@
+
+#simplecalculator {
+    font-family: 'Franklin Gothic Medium';
+}
+
+#cal0 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal0:hover {opacity: 0.6;}
+
+#cal1 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal1:hover {opacity: 0.6;}
+
+#cal2 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal2:hover {opacity: 0.6;}
+
+#cal3 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal3:hover {opacity: 0.6;}
+
+#cal4 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal4:hover {opacity: 0.6;}
+
+#cal5 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal5:hover {opacity: 0.6;}
+
+#cal6 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal6:hover {opacity: 0.6;}
+
+#cal7 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal7:hover {opacity: 0.6;}
+
+#cal8 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal8:hover {opacity: 0.6;}
+
+#cal9 {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#cal9:hover {opacity: 0.6;}
+
+#calC {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 30.5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calC:hover {opacity: 0.6;}
+
+#calDivision {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 34px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calDivision:hover {opacity: 0.6;}
+
+#calMultiplication {
+    font-size: 40px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 33px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calMultiplication:hover {opacity: 0.6;}
+
+#calAddition {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 31.5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calAddition:hover {opacity: 0.6;}
+
+#calSubtraction {
+    font-size: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 33.5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calSubtraction:hover {opacity: 0.6;}
+
+#calEqual {
+    font-size: 40px;
+    padding-left: 9px;
+    padding-right: 9px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    
+}
+#calEqual:hover {opacity: 0.6;}
+
+#calE {
+    font-size: 40px;
+    padding-left: 9px;
+    padding-right: 9px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 13px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    
+}
+#calE:hover {opacity: 0.6;}
+
+#calAC {
+    font-size: 40px;
+    padding-left: 9px;
+    padding-right: 9px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 25.5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    
+}
+#calAC:hover {opacity: 0.6;}
+
+#calDot {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 34.5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calDot:hover {opacity: 0.6;}
+
+#calPower {
+    font-size: 40px;
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 13.5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+}
+#calPower:hover {opacity: 0.6;}
