@@ -17,10 +17,10 @@ I am EXPO
 First Download the code and Open the index.html file.
 Then you can use the calculator.
 This is a basic calculator built using HTML, CSS, and Javascript, So don't blame me if this is bad ^_~
-![Logo](https://cdn.discordapp.com/attachments/916883254102069298/1003001048937549896/800_2.png)
+![Logo](https://cdn.discordapp.com/attachments/1013136431138488361/1013379061344649296/unknown.png)
 
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/916883254102069298/1003000533109448724/unknown.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1013136431138488361/1013379247051653160/unknown.png)
 
